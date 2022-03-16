@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.user{
+  border: 3px solid mediumorchid;
+  background-color: #61dafb;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 20px;
+}
